@@ -18,7 +18,6 @@
 
 - 🎓 B.E. Computer Engineering at DIT Pimpri (2023–2027)
 - 💻 Interested in **Core Programming**
-- 🤖 Generative AI, LLMs, LangChain & Hugging Face
 - 📍 Pune, Maharashtra, India
 
 ---
