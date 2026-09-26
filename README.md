@@ -65,7 +65,8 @@
 ## 🎓 Education
 
 **B.E. Computer Engineering**  
-DIT Pimpri · 2023–2027
+DIT Pimpri (2023–2027)
+
 **CGPA: 9.45**
 
 ---
